@@ -8,7 +8,7 @@ I am passionate about problem solving. I hope to use this experience as a gatewa
 
 ### My projects:
 
-+ [Digital Resume](https://github.com/tshidiso-codespace/my-digital-resume)
++ [Digital Resume](https://github.com/tshidiso-codespace/TSHMOO220_FTC2306_GroupB_TshidisoMoorosi_ITW9)
 + [Book App](https://github.com/tshidiso-codespace/TSHMOO220_FTC2306_GroupB_TshidisoMoorosi_ITWA19_FINAL_Capstone_Project)
 
 
