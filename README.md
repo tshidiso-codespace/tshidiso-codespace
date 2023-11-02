@@ -6,9 +6,10 @@
 I am a software development student at Codespace Academy, where I am acquiring skills in Software Development.
 I am passionate about problem solving. I hope to use this experience as a gateway to getting into data science.
 
-## My projects:
+### My projects:
 
 [Digital Resume](https://github.com/tshidiso-codespace/my-digital-resume)
+[Book App](https://github.com/tshidiso-codespace/TSHMOO220_FTC2306_GroupB_TshidisoMoorosi_ITWA19_FINAL_Capstone_Project)
 
 
 <!--
