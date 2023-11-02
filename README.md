@@ -1,4 +1,15 @@
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/tshidiso-moorosi-420582177/
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:tshidisomoorosi@gmail.com)
+
 ### Hi there 👋
+
+I am a software development student at Codespace Academy, where I am acquiring skills in Software Development.
+I am passionate about problem solving. I hope to use this experience as a gateway to getting into data science.
+
+## My projects:
+
+[Digital Resume](https://github.com/tshidiso-codespace/my-digital-resume)
+
 
 <!--
 **tshidiso-codespace/tshidiso-codespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
