@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-I am a software development student at Codespace Academy, where I am acquiring skills in Front-end dvelopment.
-My passion lies in problem-solving, particularly in the domains of infrastructure, spatial planning, and food security. I aspire to leverage this experience as a stepping stone into the realm of data science, a field that I believe offers the opportunity to make a significant impact on developmental challenges.
+I'm a recent graduate of a 6-month Front-End Development bootcamp at Codespace Academy. I've gained proficiency in HTML, CSS, JavaScript, and React.
+I aspire to leverage this experience as a stepping stone into the realm of data science, a field that I believe offers the opportunity to make a significant impact on developmental challenges.
 
 ### My projects:
 
